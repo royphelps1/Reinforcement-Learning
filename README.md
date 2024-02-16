@@ -1,2 +1,2 @@
 # Reinforcement-Learning
-Simulation of a warehouse robot learning a route efficiency
+Simulation of a warehouse robot learning route efficiency
